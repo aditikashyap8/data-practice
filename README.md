@@ -1,6 +1,6 @@
 # Data Practice Projects
 
-This repository is a collection of data analysis projects to strengthen technical skills. Includes guided projects from online platforms, and practice with tools like Python, Pandas, and SQL.
+This repository is a collection of data analysis projects to strengthen skills. Includes guided projects from online platforms, and practice with tools like Python, Pandas, and SQL.
 
 ## Current Projects
 
