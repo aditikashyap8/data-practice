@@ -4,7 +4,7 @@ This repository is a collection of data analysis projects to strengthen skills. 
 
 ## Current Projects
 
-### DataCamp Projects
+### 
   - 
 
 ## Skills
@@ -15,5 +15,5 @@ This repository is a collection of data analysis projects to strengthen skills. 
 - Jupyter Notebooks
 - Exploratory Data Analysis
 
-## 🔗 Connect
+## Connect
   - LinkedIn: https://www.linkedin.com/in/aditikashyap8/
